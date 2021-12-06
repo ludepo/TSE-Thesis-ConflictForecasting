@@ -1,6 +1,6 @@
 # TSE-Thesis-ConflictForecasting
 
-This project contains the replication data and code for the graphs and tables presented in my master thesis "The Power of the People - Accounting for Public Sentiment in Conflict Prediction".^[The code to clean the raw data is available upon request]
+This project contains the replication data and code for the graphs and tables presented in my master thesis "The Power of the People - Accounting for Public Sentiment in Conflict Prediction". [^1]
 
 ## Overview 
 The paper builds on the extensive dataset of structural variables constructed by Bazzi et al. (2021) and adds a new, theoretically informed measure of public sentiment with considerable within-variation that is used to improve predictions of violence between Colombian Guerrillas and the Colombian military between 2011 and 2015. 
@@ -15,3 +15,6 @@ The 'CODE' folder contains three scripts:
        3. accounts for imbalancedness of outcome variable
        4. computes the AUC
 * _Graphs:_ used to create the graphs presented in the paper
+
+
+[^1]: The code to clean the raw data is available upon request
