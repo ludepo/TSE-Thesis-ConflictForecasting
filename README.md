@@ -17,4 +17,4 @@ The 'CODE' folder contains three scripts:
 * _Graphs:_ used to create the graphs presented in the paper
 
 
-[^1]: The code to clean the raw data is available upon request
+[^1]: The code that was used to clean the raw data is available upon request
