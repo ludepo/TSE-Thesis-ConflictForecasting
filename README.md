@@ -11,7 +11,7 @@ The 'CODE' folder contains three scripts:
 * _Master_script:_ calls the RandomForest script and contains the code needed to replicate the results presented in the paper
    + _RandomForest:_ contains function used to run and evaluate the models. The function includes the following steps:
        1. conducts hyperparameter tuning
-       2. splits sample in training and testing set
+       2. splits sample in training and testing set for oos-forecasts
        3. accounts for imbalancedness of outcome variable
        4. computes the AUC
 * _Graphs:_ used to create the graphs presented in the paper
